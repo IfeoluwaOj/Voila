@@ -1,0 +1,1 @@
+web: voila --port=$PORT --no-browser --theme=dark --template=material --enable_nbextensions=True notebook/test.ipynb

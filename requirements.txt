@@ -1,0 +1,8 @@
+voila
+voila-material
+ipympl
+matplotlib
+ipywidgets
+bqplot
+ipyvolume
+scipy
